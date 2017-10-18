@@ -1,0 +1,14 @@
+Package: RabbitTS
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Date: 2017-10-18
+Authors@R: person("Thorsten", "Dahms", role = c("aut", "cre"), email="thorsten.dahms@uni-wuerzburg.de")
+URL: https://github.com/ThoDah/RabbitTS/
+BugReports: https://github.com/ThoDah/RabbitTS/issues/
+Maintainer: Thorsten Dahms <thorsten.dahms@uni-wuerzburg.de>
+Description: Time Series Analyisis of Spatial Data 
+LazyData: TRUE
+Imports: raster, sp, caret, rgdal, gdalUtils, ggplot2, grDevices, ncdf4, RCurl, XML, httr
+RoxygenNote: 6.0.1
+License: GPL (>= 3)
